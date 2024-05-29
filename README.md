@@ -43,4 +43,8 @@ This repository contains 10 projects developed using Gemini Pro and Gemini Pro V
 10. **YouTube Video Summarizer**:
     - Description: Summarize YouTube videos by providing the video link.
     - Technologies: Gemini Pro
+   
+## Contact
+
+For any inquiries or support, please contact us at mahendramedapati.r469@gmail.com
 
